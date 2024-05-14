@@ -3,6 +3,6 @@ public class SimpleJavaClass {
     System.out.println("Hello World!");
 }
 }
-//this is my comment
-//comment
-//Java
+// this is a comment
+// Helllo
+// Hi
